@@ -1,0 +1,32 @@
+date,product,category,customer_id,quantity,unit_price,region
+2025-11-08,Bola de Futebol,Esporte e Lazer,849d73eb,4,170.44,Nordeste
+2025-09-08,Teclado Mecânico,Eletrônicos,7d090402,3,19.30,Sudeste
+2025-03-05,Caderno Universitário,Papelaria,c5700893,5,447.06,Sudeste
+2025-09-27,Liquidificador,Casa e Cozinha,3441aabe,5,464.97,Norte
+2025-12-10,Boné,Moda,0579e1be,1,113.97,Nordeste
+2025-07-09,Tênis de Corrida,Esporte e Lazer,f9e69595,5,122.50,Sudeste
+2025-11-04,Jogo de Talheres,Casa e Cozinha,e6841b5c,4,894.61,Sul
+2025-10-28,Mouse Sem Fio,Eletrônicos,2bb362a5,1,875.81,Nordeste
+2025-04-30,Mochila de Trilha,Esporte e Lazer,2d50baee,5,363.26,Nordeste
+2025-03-09,Bola de Futebol,Esporte e Lazer,b44503f9,1,639.61,Sul
+2025-07-24,Carregador Portátil,Eletrônicos,66a65e57,2,364.78,Sudeste
+2025-03-27,Mochila Escolar,Papelaria,5a32b515,2,280.02,Norte
+2025-06-25,Kit Canetas,Papelaria,ec72d8de,2,645.35,Centro-Oeste
+2025-10-22,Teclado Mecânico,Eletrônicos,8f7ddb01,1,360.34,Norte
+2025-10-05,Agenda 2026,Papelaria,add957ea,,737.22,Nordeste
+2025-05-01,Mochila Casual,Moda,501abfe7,5,149.91,Sudeste
+2025-02-20,Carregador Portátil,Eletrônicos,79bcc3a8,1,273.13,Centro-Oeste
+2025-06-05,Mochila Escolar,Papelaria,28488a62,2,287.81,Norte
+2025-01-26,Smartwatch,Eletrônicos,81d053b9,5,396.37,Norte
+2025-08-30,Mochila Casual,Moda,c821104a,5,501.05,Sudeste
+2025-01-09,Organizador de Mesa,Papelaria,4d83ff48,2,314.55,Sul
+2025-07-27,Mochila Casual,Moda,7c8a88ff,5,291.69,Sudeste
+2025-09-01,Air Fryer,Casa e Cozinha,e5e658d9,5,357.87,Sul
+2025-04-15,Tênis de Corrida,Esporte e Lazer,4acbb2de,,446.09,Centro-Oeste
+2025-07-02,Caderno Universitário,Papelaria,679b8021,,612.82,Norte
+2025-11-02,Cafeteira Elétrica,Casa e Cozinha,04b4daee,4,90.82,Nordeste
+2025-03-29,Teclado Mecânico,Eletrônicos,4b8791cb,2,262.30,Sul
+2025-01-13,Fone de Ouvido,Eletrônicos,3f9d5a0b,2,228.20,Sudeste
+2025-10-14,Liquidificador,Casa e Cozinha,1c6dc7f2,3,137.99,Norte
+2025-03-17,Agenda 2026,Papelaria,2a983e8b,5,229.21,Norte
+2025-07-09,Tênis de Corrida,Esporte e Lazer,f9e69595,5,122.50,Sudeste
